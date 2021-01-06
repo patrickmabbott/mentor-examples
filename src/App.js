@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
-
-=======
->>>>>>> Stashed changes
 import React, { Component } from 'react';  
 import './App.css';
 let recipient = "Orlando";

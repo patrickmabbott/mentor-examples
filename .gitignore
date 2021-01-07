@@ -4,6 +4,8 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 
+.eslintcache
+
 # Other files and folders
 .settings/
 node_modules
